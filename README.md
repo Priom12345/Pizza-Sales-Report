@@ -80,4 +80,4 @@ Crafted by :
 -
 -[pathak.priom]
 
-Priom Pathak - Data Analyst
+Priom Pathak
