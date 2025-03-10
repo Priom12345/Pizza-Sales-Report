@@ -1,4 +1,4 @@
-                                                      PIZZA SALES ANALYSIS MySQL PROJECT
+                              PIZZA SALES ANALYSIS MySQL PROJECT
 DESCRIPTION :
 -
 This project analyzes pizza sales data using MySQL to uncover insights into customer preferences, popular toppings, sales trends, and profitability. It involves importing, cleaning, and exploring the dataset before performing analyses such as identifying top-selling pizzas, seasonal sales patterns, and customer demographics. Visualizations are created to present findings effectively, while performance metrics are calculated to evaluate business performance. The project aims to provide actionable recommendations for improving sales, marketing strategies, and customer satisfaction, showcasing proficiency in MySQL data analysis techniques and the ability to derive meaningful insights from real-world datasets.
